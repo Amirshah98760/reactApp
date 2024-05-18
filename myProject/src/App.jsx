@@ -37,13 +37,6 @@ function App() {
     </>
     
   )
-  // setCouter(counter > 0 ? counter - 1 : 0)
-  if (setCounter < 0) {
-    alert("Please enter the value is greater than 0")
-  }
-  else{
-    counter -1
-  }
 }
 
 export default App
